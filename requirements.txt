@@ -1,0 +1,10 @@
+pyrogram
+tgcrypto
+pytz
+python-dateutil
+-e git+https://github.com/Lu-Yi-Hsun/iqoptionapi.git@master#egg=iqoptionapi
+pymongo[srv]
+selenium
+webdriver-manager
+beautifulsoup4
+mercadopago
